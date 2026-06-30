@@ -131,7 +131,4 @@ https://ai-career-navigator-ajay.streamlit.app
 
 **Ajay K** — B.Tech AI & Data Science  
 Panimalar Engineering College
-
----
-
-*Current Version: 2.0 | Powered by Claude AI*
+--
