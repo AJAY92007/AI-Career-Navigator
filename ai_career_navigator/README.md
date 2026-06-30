@@ -124,6 +124,8 @@ ai_career_navigator/
 | Below 50 | D |
 
 ---
+Run the website by click the below link,
+https://ai-career-navigator-ajay.streamlit.app
 
 ## 👨‍💻 Built By
 
